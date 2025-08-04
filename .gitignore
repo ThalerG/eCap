@@ -215,9 +215,11 @@ Results/
 
 # Simulink model cache
 simulation/slprj/
+slprj/
 
 # Old prototypes
 old/
 
 # Matlab autosave files
 *.asv
+*.autosave
